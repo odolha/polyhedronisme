@@ -1875,6 +1875,7 @@
     poly = paintPolyhedron(poly);
     return poly;
   };
+  this.polyhedronisme = { newgeneratePoly };
 
   ctx = {};
 
